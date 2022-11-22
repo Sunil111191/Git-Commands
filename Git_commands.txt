@@ -1,0 +1,18 @@
+git config --global user.name 'sbnagireddy'
+git config --global user.email 'sbnagireddy@quadratyx.com'
+
+git clone should_give_url_here
+
+q- to quit
+
+git branch -a             - to see all the existing branches
+git checkout -b branch_name master_branch(reference_of_particular_branch)-  creating branch
+git branch -D sunil       - to delete the branch
+git checkout branch_name  - to move to particular_branch( we can use switch too instead of checkout)
+git push origin branch_name -to push the code
+git pull  - to take the latest changes(there'll be no change in the current existing code in current branch)
+
+git pull
+git status
+git add *
+git commit -m original
