@@ -18,6 +18,7 @@ git add *
 git commit -m original
 
 
+pushing the updated or new files or folders to git:
 
 git pull
 git add file/folder_name_should_be_given_here
