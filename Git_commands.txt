@@ -20,6 +20,6 @@ git commit -m original
 
 
 git pull
-git add file_name_should_be_given_here
+git add file/folder_name_should_be_given_here
 git commit -m "relevant comment should be given here"
 git push origin master(or else we should give the branch name) 
