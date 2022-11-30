@@ -18,9 +18,12 @@ git add *
 git commit -m original
 
 
-pushing the updated or new files or folders to git:
-
+"pushing the updated or new files or folders to git":
 git pull
 git add file/folder_name_should_be_given_here
 git commit -m "relevant comment should be given here"
 git push origin master(or else we should give the branch name) 
+
+
+"Adding a specific file or folder from another branch to existing branch":
+git checkout origin/master -- FolderPathName/fileName
