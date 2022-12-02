@@ -5,7 +5,7 @@ git clone should_give_url_here
 
 q- to quit
 
-git branch -a             - to see all the existing branches
+git branch -a             - to see all the existing branches(to which name the star mentioned,we are in that branch)
 git checkout -b branch_name master_branch(reference_of_particular_branch)-  creating branch
 git branch -D sunil       - to delete the branch
 git checkout branch_name  - to move to particular_branch( we can use switch too instead of checkout)
